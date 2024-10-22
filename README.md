@@ -17,3 +17,6 @@ Mini-project google sheet in datarockie_bootcamp_8
 Mini-project SQL Cardealer_ship dataset & Customer review data set
 - https://replit.com/@premoz2002/Car-Dealership-Datasets-mini-project?v=1#main.sql
 - https://replit.com/@premoz2002/Customer-Review-Datasets-mini-project?v=1
+
+Mini - project Data collection about lottery 
+I'm conducting data collection on the past 5 years of lottery results using web scraping techniques to extract data from the Thai Rath website. We are also utilizing Pandas and NumPy libraries to gather and organize this data. Currently, we are in the process of exploring suitable models for analyzing the collected lottery numbers.
